@@ -20,11 +20,11 @@
     "com.unity.modules.audio": "1.0.0",
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
-    "com.unity.modules.unitywebrequest": "1.0.0"
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.wings.gameframework": "3.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:EllanJiang/UnityGameFramework.git",
-    "revision": "9e04764c9098106a83b5110923d4acf1b1a13344"
+    "url": "https://github.com/pgw00k/UnityGameFramework.git"
   }
 }
